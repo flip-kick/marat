@@ -2,8 +2,8 @@ $('.single-item').slick({
   dots: true,
   infinite: true,
   speed: 500,
-  prevArrow: '<button type="button" class="slick-prev"><img src="../img/prev.PNG" alt=""></button>',
-  nextArrow: '<button type="button" class="slick-next"><img src="../img/next.PNG" alt=""></button>'
+  prevArrow: '<button type="button" class="slick-prev"><img src="../img/prev.png" alt=""></button>',
+  nextArrow: '<button type="button" class="slick-next"><img src="../img/next.png" alt=""></button>'
 });
 
 $('.btn, .btn_phone').click(function(){
